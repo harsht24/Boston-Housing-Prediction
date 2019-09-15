@@ -1,4 +1,4 @@
-    import pandas as pd
+import pandas as pd
 import numpy as np
 from sklearn.datasets import load_boston
 from sklearn import preprocessing
